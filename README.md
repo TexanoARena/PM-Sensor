@@ -12,6 +12,11 @@ Sono ben accetti consigli e migliorie
 
 *Note: il codice non è stato revisionato quindi se ci sono errori o imperfezioni non me ne vogliate..*
 
+In questo link trovate utili info in merito al sensore utilizzato:
+
+https://github.com/sharpsensoruser/sharp-sensor-demos/wiki/Application-Guide-for-Sharp-GP2Y1014AU0F-Dust-Sensor?fbclid=IwAR2p2iXpteZXrZG2pb6aCN-kXowP8BULmSywelUCM9k2Ut1WCCp5ZKdwAdQ
+
+
 ## Materiale necessario
 1 x Ordoid C1+
 
